@@ -1,7 +1,7 @@
 # Thread Synchronization In C#
 
 
-This solution is a part of tutorial [Thread Synchronization In C#](https://kudchikarsk.github.io/thread-synchronization-in-csharp/index.html)
+This solution is a part of tutorial [Thread Synchronization In C#](https://codewithshadman.com/thread-synchronization-techniques/)
 
 
 Solution contains various Windows Forms App / Console App Project for different thread synchronization concepts in C#.
